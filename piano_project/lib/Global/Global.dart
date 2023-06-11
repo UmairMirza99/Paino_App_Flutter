@@ -1,0 +1,73 @@
+// ignore_for_file: file_names
+
+import 'package:flutter/cupertino.dart';
+
+import '../Objects/parameters.dart';
+
+List<Parametr_name> White_Button_P=[
+  Parametr_name(Name: '1', audio:'Audio/C2.mp3' ),
+  Parametr_name(Name: '2', audio:'Audio/D2.mp3' ),
+  Parametr_name(Name: '3', audio:'Audio/E2.mp3' ),
+  Parametr_name(Name: '4', audio:'Audio/F2.mp3' ),
+  Parametr_name(Name: '5', audio:'Audio/D2.mp3' ),
+  Parametr_name(Name: '6', audio:'Audio/A2.mp3' ),
+  Parametr_name(Name: '7', audio:'Audio/B2.mp3' ),
+  Parametr_name(Name: '8', audio:'Audio/C2.mp3' ),
+  Parametr_name(Name: '9', audio:'Audio/D3.mp3' ),
+  Parametr_name(Name: '0', audio:'Audio/E3.mp3' ),
+  Parametr_name(Name: 'q', audio:'Audio/F3.mp3' ),
+  Parametr_name(Name: 'w', audio:'Audio/G3.mp3' ),
+  Parametr_name(Name: 'e', audio:'Audio/E3.mp3' ),
+  Parametr_name(Name: 'r', audio:'Audio/B3.mp3' ),
+  Parametr_name(Name: 't', audio:'Audio/C4.mp3' ),
+  Parametr_name(Name: 'y', audio:'Audio/D4.mp3' ),
+  Parametr_name(Name: 'u', audio:'Audio/E4.mp3' ),
+  Parametr_name(Name: 'i', audio:'Audio/F4.mp3' ),
+  Parametr_name(Name: 'o', audio:'Audio/G4.mp3' ),
+  Parametr_name(Name: 'p', audio:'Audio/A4.mp3' ),
+  Parametr_name(Name: 'a', audio:'Audio/B4.mp3' ),
+  Parametr_name(Name: 's', audio:'Audio/C5.mp3' ),
+  Parametr_name(Name: 'd', audio:'Audio/D5.mp3' ),
+  Parametr_name(Name: 'f', audio:'Audio/E5.mp3' ),
+  Parametr_name(Name: 'g', audio:'Audio/F5.mp3' ),
+  Parametr_name(Name: 'h', audio:'Audio/G5.mp3' ),
+  Parametr_name(Name: 'j', audio:'Audio/A5.mp3' ),
+  Parametr_name(Name: 'k', audio:'Audio/B5.mp3' ),
+  Parametr_name(Name: 'l', audio:'Audio/C6.mp3' ),
+  Parametr_name(Name: 'z', audio:'Audio/D6.mp3' ),
+  Parametr_name(Name: 'x', audio:'Audio/E6.mp3' ),
+  Parametr_name(Name: 'c', audio:'Audio/F6.mp3' ),
+  Parametr_name(Name: 'v', audio:'Audio/G6.mp3' ),
+  Parametr_name(Name: 'b', audio:'Audio/A6.mp3' ),
+  Parametr_name(Name: 'n', audio:'Audio/B6.mp3' ),
+
+];
+List<Black_Button_Parameters> Black_Button_List=[
+  Black_Button_Parameters(30, '!','Audio/C2.mp3'),
+  Black_Button_Parameters(20, '#','Audio/D2.mp3'),
+  Black_Button_Parameters(60,'\$','Audio/F2.mp3'),
+  Black_Button_Parameters(20, '%','Audio/G2.mp3'),
+  Black_Button_Parameters(20, '^','Audio/A2.mp3'),
+  Black_Button_Parameters(60, '*','Audio/C3.mp3'),
+  Black_Button_Parameters(20, '(','Audio/D3.mp3'),
+  Black_Button_Parameters(60, 'Q','Audio/f3.mp3'),
+  Black_Button_Parameters(20, 'W','Audio/G3.mp3'),
+  Black_Button_Parameters(20, 'E','Audio/A3.mp3'),
+  Black_Button_Parameters(60, 'T','Audio/C4.mp3'),
+  Black_Button_Parameters(20, 'Y','Audio/D4.mp3'),
+  Black_Button_Parameters(60, 'I','Audio/F4.mp3'),
+  Black_Button_Parameters(20, 'O','Audio/G4.mp3'),
+  Black_Button_Parameters(20, 'P','Audio/A4.mp3'),
+  Black_Button_Parameters(60, 'S','Audio/C5.mp3'),
+  Black_Button_Parameters(20, 'D','Audio/D5.mp3'),
+  Black_Button_Parameters(60, 'G','Audio/F5.mp3'),
+  Black_Button_Parameters(20, 'H','Audio/G5.mp3'),
+  Black_Button_Parameters(20, 'J','Audio/A5.mp3'),
+  Black_Button_Parameters(60, 'L','Audio/C6.mp3'),
+  Black_Button_Parameters(20, 'Z','Audio/D6.mp3'),
+  Black_Button_Parameters(60, 'C','Audio/F6.mp3'),
+  Black_Button_Parameters(20, 'V','Audio/G6.mp3'),
+  Black_Button_Parameters(20, 'B','Audio/A6.mp3'),
+];
+
+
